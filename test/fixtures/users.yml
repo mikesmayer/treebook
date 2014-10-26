@@ -20,3 +20,9 @@ tim:
   email: "tim@teamtreehouse.com"
   profile_name: "tim"
 
+jim:
+  first_name: "Jim"
+  last_name: "Mitchell"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jim"
+
